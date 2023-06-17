@@ -1,7 +1,7 @@
 public class Stringquestiontocountvovelsconsonets {
     
 
-public class string {
+
     public static void main(String[] args) {
         String s="Hello have a good day";
        int  vovelscount=0;
@@ -20,12 +20,12 @@ public class string {
             consonetscount++;
         }
       }
-      System.out.println(vovelscount);
-      System.out.println(specialchar);
-      System.out.println(consonetscount);
+      System.out.println("Vovels is "+vovelscount);
+      System.out.println("special characters "+specialchar);
+      System.out.println("Consonents "+consonetscount);
    
     }
     
 }
 
-}
+

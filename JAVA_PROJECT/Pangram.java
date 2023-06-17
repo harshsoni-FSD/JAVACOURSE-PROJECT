@@ -11,7 +11,7 @@ public class Pangram {
        }
        System.out.println(arr1);
        for(int a : arr1){
-        System.out.println("a==A");
+       
         if(arr1[a]==0){
             System.out.println("sting is not pangram");
             flag=true;

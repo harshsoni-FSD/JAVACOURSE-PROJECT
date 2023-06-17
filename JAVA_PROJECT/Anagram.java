@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class Anagram {
     public static void main(String[] args) {
         String str="School Master";
-        String str1="the classroom java";
+        String str1="the classroom ";
 
         str=str.replace(" ", "");
         str1=str1.replace(" ", "");
